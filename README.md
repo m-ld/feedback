@@ -1,6 +1,7 @@
 # **m-ld** feedback
-This is the main repository for [**m-ld**](https://m-ld.org/) feedback.
+This was the main repository for [**m-ld**](https://m-ld.org/) feedback.
 
-Please go to the [Issues](https://github.com/m-ld/feedback/issues) tab to log new feedback or vote for an existing issue.
+We've moved! The project is now open-source at https://github.com/m-ld/m-ld-spec.
+Please head over there for Issues and Discussions, and of course for the source code.
 
-Please also Watch and Star this repository!
+Bon voyage!
